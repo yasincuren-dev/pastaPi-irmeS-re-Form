@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje_pasta_pişirme_süreç_uygulaması", "proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması.csproj", "{74BECF50-83C4-45D6-BCBC-1794929B3A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BECF50-83C4-45D6-BCBC-1794929B3A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BECF50-83C4-45D6-BCBC-1794929B3A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BECF50-83C4-45D6-BCBC-1794929B3A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BECF50-83C4-45D6-BCBC-1794929B3A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7895A71A-1792-4B06-A016-C7D9FC34E7A4}
+	EndGlobalSection
+EndGlobal

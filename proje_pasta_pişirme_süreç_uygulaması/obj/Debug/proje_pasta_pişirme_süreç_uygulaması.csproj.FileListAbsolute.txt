@@ -1,0 +1,10 @@
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.csprojAssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.Form1.resources
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.Properties.Resources.resources
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.csproj.GenerateResource.cache
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\bin\Debug\proje_pasta_pişirme_süreç_uygulaması.exe.config
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\bin\Debug\proje_pasta_pişirme_süreç_uygulaması.exe
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\bin\Debug\proje_pasta_pişirme_süreç_uygulaması.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.exe
+C:\Users\yasin\OneDrive\Masaüstü\Udemy- C#\proje_pasta_pişirme_süreç_uygulaması\proje_pasta_pişirme_süreç_uygulaması\obj\Debug\proje_pasta_pişirme_süreç_uygulaması.pdb
